@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agentConfig>
+    <agentName>Consumer3</agentName>
+    <Power>
+        <power time="1" load="0.15"/>
+        <power time="2" load="0.1"/>
+        <power time="3" load="0.1"/>
+        <power time="4" load="0.15"/>
+        <power time="5" load="0.15"/>
+        <power time="6" load="0.35"/>
+        <power time="7" load="0.35"/>
+        <power time="8" load="0.6"/>
+        <power time="9" load="0.6"/>
+        <power time="10" load="0.7"/>
+        <power time="11" load="0.7"/>
+        <power time="12" load="0.65"/>
+        <power time="13" load="0.65"/>
+        <power time="14" load="0.55"/>
+        <power time="15" load="0.55"/>
+        <power time="16" load="0.8"/>
+        <power time="17" load="0.8"/>
+        <power time="18" load="1"/>
+        <power time="19" load="1"/>
+        <power time="20" load="0.9"/>
+        <power time="21" load="0.9"/>
+        <power time="22" load="0.3"/>
+        <power time="23" load="0.3"/>
+        <power time="0" load="0.15"/>
+    </Power>
+    <maxPower>14</maxPower>
+<!--    частное-->
+</agentConfig>
